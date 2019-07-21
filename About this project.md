@@ -1,5 +1,7 @@
 # Flight-Search-System
 
+AIM: To implement ADJACENCY LIST for entering the cities as input and creating a database and BFS (BREADTH FIRST SEARCH) on searching a direct flight connection between two cities in the database and to find the shortest path between the two cities.
+
 ABSTRACT:
  This application is based on the fight searching system between two cities in the country. Cities are added in this project using an adjacency list and the whole database is created based on the input given as the names of the cities. From this database, we are going to find whether there is direct flight connection between two cities. The program is designed in such a way that the output will show us whether there is a direct flight connection between two cities from database. If there is a connection between two cities entered from the database, output of the program will display that there is a connection between the cities as entered. In the case when there is no connection between two cities entered from the database, the program is designed to show the shortest path to destination from the source as the output. In designing this application, we will be using techniques based on BREADTH FIRST SEARCH and linear search to search the cities in the database.
 
